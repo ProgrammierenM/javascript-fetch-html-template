@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css"
+      rel="stylesheet"
+    />
+    <title>Document</title>
+  </head>
+  <body class="bg-gray-300 p-4">
+    <template id="user-card-template">
+      <figure class="flex bg-gray-100 rounded-xl overflow-hidden mb-4">
+        <img src="" class="w-48 h-auto" />
+        <div class="p-8 space-y-4">
+          <p class="font-semibold text-lg description"></p>
+          <figcaption class="font-medium text-lg">
+            <div class="text-cyan-600 fullname"></div>
+            <div class="text-gray-500 profession"></div>
+          </figcaption>
+        </div>
+      </figure>
+    </template>
+    <div id="users"></div>
+
+    <script src="app.js"></script>
+  </body>
+</html>

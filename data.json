@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "fullname": "Steffen Spider",
+    "avatar": "img/user_01.jpg",
+    "description": "Habe nie Kekskrümmel auf der Tastatur, sonst kommen die Bugs.",
+    "profession": "Web Developer"
+  },
+  {
+    "id": 2,
+    "fullname": "Ruth Rechte",
+    "avatar": "img/user_02.jpg",
+    "description": "Habe nie Kekskrümmel auf der Tastatur, sonst kommen die Bugs.",
+    "profession": "Admin"
+  },
+  {
+    "id": 3,
+    "fullname": "Susi Seller",
+    "avatar": "img/user_03.jpg",
+    "description": "Habe nie Kekskrümmel auf der Tastatur, sonst kommen die Bugs.",
+    "profession": "Marketing"
+  }
+]
